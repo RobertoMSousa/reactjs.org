@@ -19,7 +19,7 @@ If you're new to Hooks, you might want to check out [the overview](/docs/hooks-o
 - [Additional Hooks](#additional-hooks)
   - [`useReducer`](#usereducer)
   - [`useCallback`](#usecallback)
-  - [`useMemo`](#usememo)
+  - [`useMemo`](#useMemo)
   - [`useRef`](#useref)
   - [`useImperativeHandle`](#useimperativehandle)
   - [`useLayoutEffect`](#uselayouteffect)
